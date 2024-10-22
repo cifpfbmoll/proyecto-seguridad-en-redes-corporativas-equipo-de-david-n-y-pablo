@@ -26,3 +26,5 @@ Configuración de Usuario y Grupo
 Comprobación de Cumplimiento sobre las Actualizaciones
 
 Última auditoría del cis_level2_server
+
+Comparacion de los resultado de los audit
