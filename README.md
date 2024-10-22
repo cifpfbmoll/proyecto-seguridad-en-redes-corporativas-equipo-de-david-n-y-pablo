@@ -5,7 +5,8 @@ Instalación de Ubuntu Advantage
 Instalación de Ubuntu Security Guide (USG)
 
 Auditoría del cis_level2_server
-3.1. Resultados y Comentarios de la Auditoría
+
+Resultados de la Auditoría
 
 Creación del archivo Tailor.xml
 
@@ -15,11 +16,13 @@ Corrección (Fix) sobre el archivo Tailor.xml
 
 Auditoría cis_level2_server con Cambios Aplicados
 
-Configuraciones Globales según Seminario Incibe
-8.1. Configuración del arranque GRUB
-8.1.1. Establecer una contraseña de arranque
-8.1.2. Establecer permisos en el fichero de configuración de arranque
-8.1.3. Obligar al uso de contraseña en el modo "single user"
+Configuración del arranque GRUB
+
+Establecer una contraseña de arranque
+
+Establecer permisos en el fichero de configuración de arranque
+
+Obligar al uso de contraseña en el modo "single user"
 
 Configuración de Usuario y Grupo
 
